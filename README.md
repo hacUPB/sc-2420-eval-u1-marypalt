@@ -11,7 +11,7 @@ body {
 ### Estudiante: María Alejandra Patiño Altamiranda
 ### ID: 503328
 
-# ACTIVIDAD 1
+# Actividad 1
 
 ## HARDWARE
 Se refiere a todos los componentes físicos de una computadora. Estos componentes trabajan juntos para realizar las funciones de procesamiento de datos y otras tareas.
@@ -175,8 +175,15 @@ Permite que múltiples instrucciones operen sobre múltiples datos simultáneame
 ## MAPA CONCEPTUAL
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe title="Mapa Conceptual El Computador" frameborder="0" width="1200" height="675" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genially.com/66a58840c6b9b97645103f84" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 
+# Actividad 2
+condicionales y bucles
+conceptos de variables y etiquetas
 
-# ACTIVIDAD 3
+
+
+
+
+# Actividad 3
 
 ## PROGRAMA 1 PANTALLA
 ````
